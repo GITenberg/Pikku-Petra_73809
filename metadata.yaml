@@ -1,0 +1,30 @@
+_repo: Pikku-Petra_73809
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bergroth, Kersti
+    gutenberg_agent_id: '57228'
+    url: http://www.gutenberg.org/2009/agents/57228
+creator:
+  author:
+    agent_name: Ring, Barbra
+    gutenberg_agent_id: '57227'
+    url: http://www.gutenberg.org/2009/agents/57227
+description: ''
+gutenberg_issued: '2024-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73809'
+language: fi
+pgterms:marc905: 20190317092130ring
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pikku Petra
+url: http://www.gutenberg.org/ebooks/73809
