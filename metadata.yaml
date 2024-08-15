@@ -5,12 +5,17 @@ contributor:
     agent_name: Bergroth, Kersti
     gutenberg_agent_id: '57228'
     url: http://www.gutenberg.org/2009/agents/57228
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ring, Barbra
     gutenberg_agent_id: '57227'
     url: http://www.gutenberg.org/2009/agents/57227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73809#Pikku-Petra
 gutenberg_issued: '2024-06-11'
 gutenberg_type: Text
 identifiers:
